@@ -1,5 +1,6 @@
 class coffee_machine:
-
+    
+    
     def __init__(self):
         self.resources = {'water':300 , 'milk':200 , 'coffee':100}
         self.profit = 0
